@@ -20,7 +20,7 @@ Página de geração de certificados do Dev Day 4 Girls, evento realizado para i
 - [x] Deploy do serviço;
 - [x] Validação do serviço;
 
-##**Deploy do serviço no Heroku**
+## **Deploy do serviço no Heroku**
 Clique [aqui](https://glacial-sierra-23516.herokuapp.com/certificado) para acessar!
 
 ## **Validação - Postman**
