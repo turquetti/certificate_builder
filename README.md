@@ -5,7 +5,7 @@
 ## **Dev Day 4 Girls** 👩🏻‍💻
 It's a page to print the certificates from Dev Day 4 Girls. 
 
-## **Tecnologies**
+## **Tecnologies 🔧**
 * HTML
 * CSS
 * HTTP Protocols
@@ -23,6 +23,6 @@ It's a page to print the certificates from Dev Day 4 Girls.
 ## **Heroku deploy**
 Click [here](https://glacial-sierra-23516.herokuapp.com/certificado) to access!
 
-## **Validation - Postman**
+## **☑️ Validation - Postman**
 
 <img src="https://i.ibb.co/XSKp8Rv/Captura-de-Tela-2020-11-22-a-s-16-55-33.png" alt="Validação Postman" border="0">
