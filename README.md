@@ -1,28 +1,28 @@
-# desafio - certificado 💻
+# certificate - builder 💻
 
-**Objetivo**: desenvolver um serviço web capaz de gerar certificados de conclusão de curso.
+**Goal**: develop a web service capable to generate certificates automatically.
 
 ## **Dev Day 4 Girls** 👩🏻‍💻
-Página de geração de certificados do Dev Day 4 Girls, evento realizado para introduzir meninas de 14 a 17 anos às suas primeiras linhas de código. 
+It's a page to print the certificates from Dev Day 4 Girls. 
 
-## **Tecnologias usadas**
+## **Tecnologies**
 * HTML
 * CSS
-* Protocolo HTTP
+* HTTP Protocols
 * Express
 * Handlebars
 * Puppeeter
 
-## **Etapas de desenvolvimento**
-- [x] Criar template do certificado com HTML e CSS;
-- [x] Criar rota com ExpressJS com o método POST do HTTP;
-- [x] Criar serviço que receba as variáveis para geração do HTML e gere o .pdf para download;
-- [x] Deploy do serviço;
-- [x] Validação do serviço;
+## **Development steps**
+- [x] Build a template for the certificate using HTML and CSS;
+- [x] Create a route with ExpressJS using POST method from HTTP;
+- [x] Create a service that gets the variables to build the .pdf to download;
+- [x] Deploy;
+- [x] Service Validation;
 
-## **Deploy do serviço no Heroku**
-Clique [aqui](https://glacial-sierra-23516.herokuapp.com/certificado) para acessar!
+## **Heroku deploy**
+Click [here](https://glacial-sierra-23516.herokuapp.com/certificado) to access!
 
-## **Validação - Postman**
+## **Validation - Postman**
 
 <img src="https://i.ibb.co/XSKp8Rv/Captura-de-Tela-2020-11-22-a-s-16-55-33.png" alt="Validação Postman" border="0">
